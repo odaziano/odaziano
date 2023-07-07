@@ -1,4 +1,4 @@
-### Hi there 👋
+### I’m studing at Casa del Futuro, my teacher is Lucas Zarandon 👋
 
 <!--
 **odaziano/odaziano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
