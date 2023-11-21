@@ -1,4 +1,4 @@
-### I’m studing at Casa del Futuro, learning MySQL 👋
+### I’m studing at Casa del Futuro, learning MySQL, Python 👋
 
 <!--
 **odaziano/odaziano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
